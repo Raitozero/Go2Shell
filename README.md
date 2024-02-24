@@ -9,3 +9,4 @@ Use:
 Download Go2Shell.app
 Hold Command⌘ to drag it to Finder Toolbar.
 Click, done!
+
